@@ -1,3 +1,4 @@
-name,password,email,failed_login_attemps,logged_in,role
-utilisateur,utilisateurMDP,utilisateur@gmail.com,0,False,utilisateur
-root,rootMDP,admin@gmail.com,0,False,administrateur
+username,name,password,email,failed_login_attemps,logged_in,role
+user1,utilisateur,utilisateurMDP,utilisateur@gmail.com,0,False,utilisateur
+admin,root,rootMDP,admin@gmail.com,0,False,administrateur
+guest1,guest,guest123,guest@gmail.com,0,False,utilisateur
